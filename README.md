@@ -1,4 +1,4 @@
-# Radeonique
+
 # Real-Time Multimedia Image Processing System on Embedded Hardware
 
 Real-time leaf disease detection system using CNN deployed on Raspberry Pi.
