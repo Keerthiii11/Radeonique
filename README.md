@@ -20,3 +20,7 @@ Real-time leaf disease detection system using CNN deployed on Raspberry Pi.
 1. Train model: python Training.py
 2. Web app: python app.py
 3. Camera prediction: python Prediction_cam1.py
+
+
+## Status
+Project completed as part of B.Tech final year — model achieves reliable classification across common leaf diseases.
