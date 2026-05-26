@@ -1,3 +1,5 @@
+# Main Flask application for leaf disease prediction API
+
 from flask import Flask, render_template,request
 import dataset
 import tensorflow.compat.v1 as tf
