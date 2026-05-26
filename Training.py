@@ -1,3 +1,5 @@
+# Training script for leaf disease classification model using TensorFlow
+
 import dataset
 #import tensorflow as tf
 import tensorflow.compat.v1 as tf
